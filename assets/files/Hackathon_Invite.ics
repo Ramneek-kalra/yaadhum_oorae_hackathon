@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20201029T123000Z
+DTEND:20201030T003000Z
+DTSTAMP:20201006T172226Z
+ORGANIZER;CN=ieeeyesist12@gmail.com:mailto:ieeeyesist12@gmail.com
+UID:6bg2pr8s6cp04tsoe3jqugn14s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Ramneek kalra;X-NUM-GUESTS=0:mailto:kalraramneek@ieee.org
+X-MICROSOFT-CDO-OWNERAPPTID:-1293841824
+CLASS:PUBLIC
+CREATED:20201006T151421Z
+DESCRIPTION:Hello Innovators/Enthusiast\,<br><br>This hackathon is collabor
+ atively conducted by "<b>The Southern India Chamber of Commerce and Industr
+ y</b>"\, "<b>Yaadhum Oorae | Govt. of Tamil Nadu</b>" and "<b>IEEE YESIST12
+ </b>".<br><br>Details of same are as follows:<br>Hackathon Duration: <b>12 
+ Hours</b><br>Date &amp\; Time: <b>29th Oct (6:00 PM IST)</b> - <b>30th Oct 
+ 2020 (6:00 AM IST)</b><br><br>Themes of Hackathon:<br><b>- Tamil &amp\; Tec
+ hnology:</b> Tamil language is the oldest language in the world and it is n
+ ot just a language\, it is a way of living. This classical language had a p
+ resence over 5000 years ago and it is spoken by more than 90 million people
+  across the world. Tamil is the official language of the Indian state Tamil
+  Nadu. Despite this fact\, Tamil is not much used as a language of technolo
+ gy. This track will help you to explore some existing problems to bridge th
+ is gap.<br><br><b>- Smart Transportation &amp\; Mobility:</b> With the moti
+ vation of Digitalization of Nation\, Tamil Nadu is missing some instances o
+ f adopting smart solutions for Public/Private Transportation. This track he
+ lps you to work on those real-world problems/gaps.<br><br>For registration\
+ , please submit your team details as requested below in the form and for mo
+ re details\, explore at: <a href="http://ieeeyesist12.org/global_hackathon/
+ index.html">http://ieeeyesist12.org/global_hackathon/index.html</a><br><br>
+ Please explore RULES BEFORE REGISTRATION: <br><br>Regards\,<br>Organizing T
+ eam<br>Yaadhum Oorae Global Conclave Hackathon<br><a href="http://ieeeyesis
+ t12.org/global_hackathon/index.html">http://ieeeyesist12.org/global_hackath
+ on/index.html</a>&nbsp\;&nbsp\;\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this se
+ ction of the description.\n\nThis event has a video call.\nJoin: https://me
+ et.google.com/yyo-yecn-ufc\n\nView your event at https://www.google.com/cal
+ endar/event?action=VIEW&eid=NmJnMnByOHM2Y3AwNHRzb2UzanF1Z24xNHMga2FscmFyYW1
+ uZWVrQGllZWUub3Jn&tok=MjIjaWVlZXllc2lzdDEyQGdtYWlsLmNvbTNlYThjMzIxODY1ZTU1N
+ zcyN2M4YmI1YzliODZkNDY1YzZlNWM3ODg&ctz=Asia%2FKolkata&hl=en&es=1.\n-::~:~::
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:
+ ~::-
+LAST-MODIFIED:20201006T172224Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Yaadhum Oorae Global Conclave Hackathon | IEEE YESIST12-2020
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
