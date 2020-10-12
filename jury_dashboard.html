@@ -77,6 +77,25 @@
                 <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
                     <strong>Welcome to Judging Panel</strong>
                 </h4>
+                    <?php
+                    include 'server/connect.php';
+                    $result = mysqli_query($conn,"SELECT * FROM team_master");
+                    $all_property = array(); ?>
+                    <table class="data-table">
+                    <tr class="data-heading"> <?php
+                    while($property = mysqli_fetch_field($result)) { ?>
+                        <td>  <?php $property -> name ?> </td>
+                        <?php array_push($all_property, $property -> name);
+                    } ?>
+                    </tr>
+                    <?php while ($row = mysqli_fetch_array($result)) { ?>
+                        <tr>
+                        <?php foreach ($all_property as $item) { ?>
+                            <td> <?php $row[$item] ?> </td>
+                        <?php } ?>
+                        </tr>
+                    <?php } ?>
+                </table>
             </div>
         </div>
     </div>
