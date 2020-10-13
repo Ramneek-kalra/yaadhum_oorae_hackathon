@@ -87,3 +87,4 @@
 [09-Oct-2020 19:34:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ieeeyi9s/public_html/global_hackathon/server/login.php on line 17
 [09-Oct-2020 20:19:46 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ieeeyi9s/public_html/global_hackathon/server/team_fetch.php on line 5
 [09-Oct-2020 20:20:13 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ieeeyi9s/public_html/global_hackathon/server/team_fetch.php on line 5
+[12-Oct-2020 13:05:19 UTC] PHP Warning:  file(hitcounter.txt): failed to open stream: No such file or directory in /home/ieeeyi9s/public_html/global_hackathon/server/counter.php on line 3

@@ -1315,10 +1315,14 @@ a {
     max-width: 12.5%;
   }
 }
+#eligibility_section{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
 .cid-scDAacvSEv {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-scDAacvSEv .number-wrap {
   color: #555555;
